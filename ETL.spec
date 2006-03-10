@@ -1,12 +1,12 @@
 Summary:	Voria Extended Class and Template Library
 Summary(pl):	Biblioteka rozszerzeñ klas i wzorców Vorii
 Name:		ETL
-Version:	0.04.07
+Version:	0.04.08
 Release:	1
 License:	GPL
 Group:		Libraries
 Source0:	http://www.bridgetone.com/voria/files/%{name}-%{version}.tar.gz
-# Source0-md5:	f156ea5f07d1c2d5802f2e0e2706b46a
+# Source0-md5:	610f00117c2d0e088030a0956242bd1c
 URL:		http://www.synfig.com/download
 Requires:	libstdc++-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
