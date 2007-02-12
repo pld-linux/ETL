@@ -1,5 +1,5 @@
 Summary:	Voria Extended Class and Template Library
-Summary(pl.UTF-8):   Biblioteka rozszerzeń klas i wzorców Vorii
+Summary(pl.UTF-8):	Biblioteka rozszerzeń klas i wzorców Vorii
 Name:		ETL
 Version:	0.04.08
 Release:	1
