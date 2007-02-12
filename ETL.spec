@@ -1,5 +1,5 @@
 Summary:	Voria Extended Class and Template Library
-Summary(pl):	Biblioteka rozszerzeñ klas i wzorców Vorii
+Summary(pl.UTF-8):   Biblioteka rozszerzeÅ„ klas i wzorcÃ³w Vorii
 Name:		ETL
 Version:	0.04.08
 Release:	1
@@ -15,9 +15,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 VoriaETL is a multiplatform class and template library designed to
 complement and supplement the C++ STL.
 
-%description -l pl
-VoriaETL jest wieloplatformow± bibliotek± klas i wzorców przeznaczon±
-do uzupe³niania STL C++.
+%description -l pl.UTF-8
+VoriaETL jest wieloplatformowÄ… bibliotekÄ… klas i wzorcÃ³w przeznaczonÄ…
+do uzupeÅ‚niania STL C++.
 
 %prep
 %setup -q
