@@ -1,0 +1,21 @@
+diff -ur ETL-0.04.10-o/config/configure.ac ETL-0.04.10/config/configure.ac
+--- ETL-0.04.10-o/config/configure.ac	2007-03-16 02:21:25.000000000 -0600
++++ ETL-0.04.10/config/configure.ac	2007-10-13 17:51:45.000000000 -0600
+@@ -30,15 +30,10 @@
+ AC_PROG_CC
+ AC_PROG_CXX
+ AC_PROG_INSTALL
+-AC_PROG_RANLIB
++AC_PROG_LIBTOOL
+ 
+ AC_LANG_CPLUSPLUS
+ 
+-AC_ARG_WARNINGS
+-AC_ARG_DEBUG
+-AC_ARG_OPTIMIZATION
+-AC_ARG_PROFILING
+-
+ AC_WIN32_QUIRKS
+ 
+ # -- L I B R A R I E S ----------------------------------------
+Only in ETL-0.04.10/config: configure.ac~
